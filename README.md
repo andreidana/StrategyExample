@@ -23,4 +23,4 @@ This pattern is best used when:
 
 **Related Patterns**
 
-- Flyweight
+- [Flyweight](https://github.com/andreidana/FlyweightExample)
